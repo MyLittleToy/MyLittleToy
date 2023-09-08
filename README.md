@@ -11,7 +11,7 @@
 **SQL**
 
 Project Link:	
-Project Description: Included within this portfolio are solutions to the 8 case studies from the #8weekSQLChallenge by Danny Loves Data, spanning 8 weeks of intensive SQL challenges. These case studies serve as a testament to my proficiency in crafting SQL queries to address complex business questions. They reflect my dedication to honing my SQL skills and demonstrate my capability to extract valuable insights from data to drive informed decision-making.
+Project Description: Included within this portfolio are solutions to the 8 case studies from the #8weekSQLChallenge by Data with Danny, spanning 8 weeks of intensive SQL challenges. These case studies serve as a testament to my proficiency in crafting SQL queries to address complex business questions. They reflect my dedication to honing my SQL skills and demonstrate my capability to extract valuable insights from data to drive informed decision-making.
 
 Project Link:	
 Project Description: I undertook a SQL Crash Course with UpLimit (formerly CoRise) to supplement my SQL skills.  As part of this course I undertook two projects.  
