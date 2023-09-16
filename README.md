@@ -1,62 +1,49 @@
-- 👋 Hi, I’m Cheryl, and this is my data portfolio of projects that I've worked on.  This includes guided projects as well as looking at datasets that I find interesting and want to explore.
-- 👀 I’m interested in data analytics and cloud computing, specifically data engineering on Microsoft Azure 
-- 🌱 I’m currently learning ...Azure Data Engineering Associate certification and SQL
-- 📫 How to reach me moonfin908@dontsp.am
+Pwc: Call Center Analysis 
 
-- 📚 Table of Contents
-      Data Engineering Projects
-      SQL Projects
-      Power BI Projects
+Problem Statement:
 
-**SQL**
+![image](https://github.com/MyLittleToy/MyLittleToy/assets/139712656/e598979b-5dde-4f36-8dc9-00a295737ca6)
+PhoneNow's call centre manager - Claire is seeking transparency and insight into the Call Center dataset.  This information will be used to facilitate further discussions with the management team. 
 
-Project Link:	
-Project Description: Included within this portfolio are solutions to the 8 case studies from the #8weekSQLChallenge by Data with Danny, spanning 8 weeks of intensive SQL challenges. These case studies serve as a testament to my proficiency in crafting SQL queries to address complex business questions. They reflect my dedication to honing my SQL skills and demonstrate my capability to extract valuable insights from data to drive informed decision-making.
+Objective: The purpose of this analysis is to create a dashboard in Power BI for the Call Center Manager that reflects all relevant Key Performance Indicators (KPIs) and metrics:
 
-Project Link:	
-Project Description: I undertook a SQL Crash Course with UpLimit (formerly CoRise) to supplement my SQL skills.  As part of this course I undertook two projects.  
+Possible KPIs include (but not limited to):
+- Overall customer satisfaction
+- Overall calls answered/abandoned
+- Calls by time
+- Average speed of answer
+- Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
-**Area of Analysis **
-I utilised various types of SQL analysis techniques to answer different business questions within each of my SQL projects. Collectively these approaches demonstrates my ability to approach a wide range of business questions and challenges using SQL. Breakdown as follows: 
+The dataset has been provided by Pwc Switzerland as linked here......> [01 Call-Center-Dataset.xlsx](https://github.com/MyLittleToy/MyLittleToy/files/12640566/01.Call-Center-Dataset.xlsx)
 
-1. **Descriptive Analysis**:
-   - Describing the data to gain an initial understanding of its characteristics.
-   - Summarizing data using aggregates like COUNT, SUM, AVG, MIN, and MAX.
+Dataset Fields
+![image](https://github.com/MyLittleToy/MyLittleToy/assets/139712656/0bb5fc1c-b057-441a-bb79-289d2aed7950)
 
-2. **Filtering and Data Selection**:
-   - Using the WHERE clause to filter and select specific subsets of data that are relevant to each case study.
-
-3. **Sorting and Ranking**:
-   - Sorting data in ascending or descending order based on specific columns using the ORDER BY clause.
-   - Assigning rankings to data points based on criteria such as sales, performance, or ratings.
-
-4. **Grouping and Aggregation**:
-   - Grouping data using the GROUP BY clause to perform aggregate calculations within each group.
-   - Calculating metrics like average revenue per customer, total sales by category, etc.
-
-5. **Time Series Analysis**:
-   - Analysing data over time periods to identify trends, seasonality, or patterns.
-   - Calculating metrics like monthly sales growth, year-over-year comparisons, etc.
-
-6. **Joining and Relational Analysis**:
-   - Combining data from multiple tables using SQL joins (INNER JOIN, LEFT JOIN, etc.) to create a comprehensive dataset for analysis.
-   - Analysing relationships between tables to answer questions that require data from multiple sources.
-
-7. **Subqueries**:
-   - Using subqueries to break down complex problems into simpler, more manageable parts.
-  
-8. **Window Functions**:
-   - Employing window functions like ROW_NUMBER(), RANK(), and DENSE_RANK() for tasks like calculating running totals or identifying top performers.
-
-9. **Data Cleansing and Transformation**:
-    - Cleaning and transforming data to ensure consistency and accuracy.
+1. **Data Cleansing and Transformation**:
+    - Cleaning and transforming data to ensure consistency and accuracy i.e. column type validation
     - Handling missing values and outliers when necessary.
 
-10. **Data Visualization** 
-    - Utilising external tools such as Power BI to visualise my findings.
+3. **Data Modelling** 
+    - No modelling was necessary as the dataset consisted od a singular table
 
+4. **Data Visualisation** 
+Utilising external tools such as Power BI to visualise my findings. I created two main dashboards to visualise the following:
+- Agent performance KPIs: Number of calls answered/abandoned, Avg talk times, speed of answering, Avg satisfaction scores
+- Call resolution stats: Resolved rate, calls by agent, cases resolved/not, and number of resolved cases v unresolved cases.
 
+5. **Data Analysis** 
 
+Agent related stats:
+- Agent with highest average satisfaction score - Martha @ 3.47
+- Agent who resolves the most cases - Jim, resolving 485 cases over the period
+- Agent with most unresolved cases - Diane, with 181 unresolved cases.  It is imperative to note, however that Diane has a 71% resolved rate.
+
+Resolution-related stats:
+- Service with the most resolved cases - Streaming, with 73% of cases resolved
+- Service with the most unresolved cases - Technical Support, with 28% of cases unresolved
+
+Over-all stats:
+- Average satisfaction score - 3.40
 
 
 
