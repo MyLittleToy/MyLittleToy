@@ -1,13 +1,3 @@
-- 👋 Hi, I’m Cheryl, and this is my data portfolio of projects that I've worked on.  This includes guided projects as well as looking at datasets that I fond interesting and wanted to query.
-- 👀 I’m interested in Microsoft Azure 
-- 🌱 I’m currently learning ...Azure Data Engineering Associate certification and SQL
-- 📫 How to reach me moonfin908@dontsp.am
-
-- 📚 Table of Contents
-      Data Engineering
-      SQL
-      Power BI
-
 **SQL**
 
 Project Link:	
