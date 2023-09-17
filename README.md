@@ -4,9 +4,10 @@
 - 📫 How to reach me moonfin908@dontsp.am
 
 Find below links to my projects:
-      Data Engineering Projects
-      SQL Projects
-      Power BI Projects
+- Data Engineering Projects
+- SQL Projects 
+   - https://github.com/MyLittleToy/SQL-Projects-UpLimit-.git
+- Power BI Projects
 
 
 
