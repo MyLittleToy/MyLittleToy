@@ -9,6 +9,7 @@ Find below links to my projects:
    - https://github.com/MyLittleToy/SQL-Projects-UpLimit-.git
 - Power BI Projects
    - [https://github.com/MyLittleToy/MyLittleToy.git](https://github.com/MyLittleToy/Power-BI-Projects.git)
+- Python Projects
    - 
 
 
