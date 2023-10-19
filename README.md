@@ -10,7 +10,7 @@ Find below links to my projects:
 - Power BI Projects
    - [https://github.com/MyLittleToy/MyLittleToy.git](https://github.com/MyLittleToy/Power-BI-Projects.git)
 - Python Projects
-   - 
+   - https://github.com/MyLittleToy/Python_Projects 
 
 
 
