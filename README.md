@@ -8,6 +8,7 @@ Find below links to my projects:
 - SQL Projects 
    - https://github.com/MyLittleToy/SQL-Projects-UpLimit-.git
    - https://github.com/MyLittleToy/SQL-Projects-RestaurantDB
+   - https://github.com/MyLittleToy/SQL-Projects-Misc
 - Power BI Projects
    - [https://github.com/MyLittleToy/MyLittleToy.git](https://github.com/MyLittleToy/Power-BI-Projects.git)
 - Python Projects
