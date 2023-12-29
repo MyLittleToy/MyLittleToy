@@ -11,7 +11,8 @@ Find below links to my projects:
    - https://github.com/MyLittleToy/SQL-Projects-Misc
 - Power BI Projects
    - [https://github.com/MyLittleToy/MyLittleToy.git](https://github.com/MyLittleToy/Power-BI-Projects.git)
-   - https://github.com/MyLittleToy/Power-Bi-Projects_PWC/tree/main
+   - https://github.com/MyLittleToy/Power-Bi-Projects_PWC
+   - https://github.com/MyLittleToy/Power-BI-Projects-Tata-Group
 - Python Projects
    - https://github.com/MyLittleToy/Python_Projects 
 
