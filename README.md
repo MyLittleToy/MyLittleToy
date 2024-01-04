@@ -13,6 +13,7 @@ Find below links to my projects:
 - Power BI Projects
    - https://github.com/MyLittleToy/Power-Bi-Projects_PWC
    - https://github.com/MyLittleToy/Power-BI-Projects-Tata-Group
+   - https://github.com/MyLittleToy/Power-Bi-Projects-Misc
 - Python Projects
    - https://github.com/MyLittleToy/Python_Projects 
 
